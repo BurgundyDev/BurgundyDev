@@ -1,8 +1,8 @@
-# Hi! The name's Tolly!
+#Hi! The name's Tolly!
 
-### they/them
+###they/them
 
-## Junior Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
+##Junior Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
 
 🎮 I love making games and letting wide audiances experience them.
 
