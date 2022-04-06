@@ -9,4 +9,6 @@
 
 🖼️ I'm most interested in rendering systems and APIs.
 
+🦀 My friends and I make games (mostly for Jams) as CrabsInGames. Don't hesitate to check us out at https://github.com/CrabsInGames/!
+
 ✏️ Currently working on my own minimalist C++ game dev framework.
