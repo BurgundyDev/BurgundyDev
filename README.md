@@ -1,4 +1,4 @@
-![image](https://github.com/BurgundyDev/BurgundyDev/blob/main/index.png?raw=true)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,unreal,py,lua,linux)](https://skillicons.dev)
 
 ## Junior Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
 
