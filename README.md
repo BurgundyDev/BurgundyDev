@@ -1,4 +1,4 @@
-![image](https://github.com/BurgundyDev/BurgundyDev/blob/main/header.png?raw=true)
+![image](https://github.com/BurgundyDev/BurgundyDev/blob/main/index.png?raw=true)
 
 ## Junior Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
 
