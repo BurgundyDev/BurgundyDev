@@ -22,4 +22,6 @@
 ## My Languages and stats
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,unreal,py,lua,linux)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurgundyDev&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurgundyDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
