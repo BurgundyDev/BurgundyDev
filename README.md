@@ -12,7 +12,7 @@
 </div>
 
 #### they/them
-## Junior Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
+## Tech QA Analyst at CD Projekt RED, C++ Game Developer, FOSS enthusiast
 
 🦀 My friends and I make games (mostly for Jams) as CrabsInGames. Don't hesitate to check us out at https://github.com/CrabsInGames/!
 
